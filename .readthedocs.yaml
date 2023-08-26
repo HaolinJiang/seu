@@ -13,7 +13,7 @@ python:
    - requirements: doc/requirements.txt
    # Install our python package before building the docs
    - method: pip
-     path: doc/
+     path: doc/docs
      
 formats:
   - pdf
